@@ -7,7 +7,7 @@ A simple test of "std::chrono::utc_clock".
 
 **Notes**:
 - Uses C++20 `<chrono>` (std::chrono::utc_clock) and `<format>`.
-- If you need std::chrono::parse, require GCC ≥ 14.1.
+- If you need std::chrono::parse, requires GCC ≥ 14.1.
 
 **Tested with**
 - Debian 13 (trixie), g++ 14.2.0
